@@ -1,0 +1,14 @@
+spring:
+  liquibase:
+    url: jdbc:postgresql://127.0.0.1:5432/customer
+    password: password
+    user: admin
+    change-log: classpath:/db/master.xml
+db:
+  password: password
+  port: '5432'
+  host: localhost
+  name: customer
+  username: admin
+server:
+  port: '8088'

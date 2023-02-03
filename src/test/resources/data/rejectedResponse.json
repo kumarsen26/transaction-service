@@ -1,0 +1,16 @@
+{
+  "Rejected Transactions": [
+    {
+      "Email Id": "john@doe4.com",
+      "First Name": "John",
+      "Last Name": "Doe4",
+      "Transaction Number": "TR0001"
+    },
+    {
+      "Email Id": "john@doe5.com",
+      "First Name": "John",
+      "Last Name": "Doe5",
+      "Transaction Number": "TR0002"
+    }
+  ]
+}
